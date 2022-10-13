@@ -1,2 +1,2 @@
-# come-ando
+# comecando, primeiro repositório github
 Cursinho Java Jedi, aprendendo.
