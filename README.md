@@ -2,6 +2,5 @@ Curso Java Jedi
 Subindo Atualização
 Origin, Fetch, Pull
 Testando funcionalidade
-Parte 1
-Parte 2
-Parte 3
+Hoje não tem saidera não
+Só amanhã
