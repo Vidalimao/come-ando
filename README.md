@@ -2,6 +2,6 @@ Curso Java Jedi
 Subindo Atualização
 Origin, Fetch, Pull
 Testando funcionalidade
+Parte 1
 Parte 2
-7
-8
+Parte 3
