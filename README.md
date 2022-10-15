@@ -5,3 +5,4 @@ Testando funcionalidades merge/pull
 Testando funcionalidade GIT fetch
 Da um help john john
 Vou alterar aqui denovo
+Baixando novamete
