@@ -1,5 +1,5 @@
 # comecando
 ## Cursinho Java Jedi, branch
-Alteração mais uma vez
-Melhorei
-Oi
+Todas as alterações foram feitas novamentes
+Testando funcionalidades merge/pull
+Testando funcionalidade GIT fetch
